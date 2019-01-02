@@ -48,4 +48,4 @@ public class ScreenSize1copy
       pauseInput = input.nextInt(); 
       input.close();       
    }
-}
+}//test
